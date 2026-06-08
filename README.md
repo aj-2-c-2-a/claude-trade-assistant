@@ -206,6 +206,3 @@ it genuinely helps other traders find it.
 
 <div align="center">
 
-<sub>Keywords: tradingview, tradingview webhook, tradingview alerts, pine script, pre-market scanner, gap scanner, stock scanner, day trading, news briefing, claude ai, anthropic, ai trading assistant, python trading bot, watchlist scanner, relative volume, lightweight charts, fintech, quant.</sub>
-
-</div>
