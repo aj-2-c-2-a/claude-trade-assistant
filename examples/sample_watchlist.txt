@@ -1,0 +1,15 @@
+# One ticker per line. Lines starting with # are ignored.
+AAPL
+MSFT
+NVDA
+TSLA
+AMD
+AMZN
+META
+GOOGL
+NFLX
+PLTR
+COIN
+SOFI
+BABA
+BA

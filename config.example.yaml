@@ -1,0 +1,20 @@
+# Copy to config.yaml and edit. Secrets stay in .env, not here.
+
+provider: yfinance        # yfinance (free) | finnhub
+model: claude-sonnet-4-6  # claude-opus-4-8 | claude-sonnet-4-6 | claude-haiku-4-5-20251001
+
+# Gap scan filters
+min_abs_gap_pct: 4.0      # keep moves of at least this size (absolute %)
+min_rel_volume: null      # e.g. 1.5 to require elevated volume (yfinance only)
+direction: both           # up | down | both
+limit: 25                 # max rows
+
+# Symbols to scan (one per line in a watchlist file overrides this)
+watchlist:
+  - AAPL
+  - MSFT
+  - NVDA
+  - TSLA
+  - AMD
+  - PLTR
+  - COIN
